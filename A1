@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
+<img src="https://2jsqmx3urpic3hm7hj2c4vvi-wpengine.netdna-ssl.com/files/asu-logo.png" width="500" height="300">
+
+<h1>Julian Johnson</h1>
+<address>
+<p><a href= "tel:951-227-5960"> 951-227-5960 </a> </p>
+
+<p><a href="https://goo.gl/maps/t7i4Xnzb8ihtksig7">Address</a></p>
+
+<p><a href="mailto:jejohn35@asu.edu"> jejohn35@asu.edu </a></p>
+<hr>
+</address>
+
+<h2>Objective Education</h2>
+<table style="width:100%">
+
+ 
+  <tr>
+    <td>Skills</td>
+    <td>Interactive Learning</td>
+    <td>Design Practices</td>
+  </tr>
+  <tr>
+    <td>Writting Skills</td>
+    <td>Networking</td>
+    <td>Management</td>
+  </tr>
+  <tr>
+    <td>Meet Personal Milestones</td>
+    <td>Acquire Knowledge</td>
+    <td>Communication</td>
+  </tr>
+</table>
+<hr>
+
+<h2>Experience</h2>.
+
+<ol>
+ <p> <li>Chick-fill-a Emplotee</li> </p>
+ <p> <li>Solar Solutions telemarketer</li> </p>
+ <p> <li>Six Pack Recycling Assistant</li> </p>
+</ol>  
+
+<hr>
+
+
+<h3>Reference</h3>
+<p> </p>
+<ul>
+  <li>Jody Miele</li>
+  <li>Hannah Smith</li>
+  <li>Megan Workman</li>
+</ul>  
+
+</body>
+</html>
